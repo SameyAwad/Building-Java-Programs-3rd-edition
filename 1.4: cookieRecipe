@@ -1,0 +1,11 @@
+In your own words, describe an algorithm for baking cookies. 
+Assume that you have a large number of hungry friends,
+so you'll want to produce several batches of cookies!
+ 
+1- Make a list of hungry friends, get count
+2- Buy sugar, flour, eggs, yeast, milk
+3- check capacity of oven,baking sheets, and mixer
+4- calculate number of batches based on friends count
+5- mix the first batch
+6- bake it
+7- repeat step 5 and 6 until all friends are served
